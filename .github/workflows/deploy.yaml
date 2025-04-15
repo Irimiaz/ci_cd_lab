@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-    build:
+  build:
     # Specify the OS for the runner
     runs-on: ubuntu-latest
 
